@@ -3,8 +3,9 @@ def most_common_value(number_list):
     """
     pass
 
-def second_element(numbers_list)
-    return numbers_list[1]
+def second_element(numbers_list):
+
+    return True #Poppy try to make a merge conflict here
 
 if __name__ == "__main__":
     nums = [1, 1, 3, 3, 3, 7, 8, 2, 1, 3]
