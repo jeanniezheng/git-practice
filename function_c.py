@@ -5,7 +5,7 @@ def merge_lists(list_a, list_b):
     """
     print("Poppy make a change")
     if list_a not in list_b:
-        return list_a+list_b
+        return False
 
 
 if __name__ == "__main__":
