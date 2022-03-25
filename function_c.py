@@ -4,7 +4,7 @@ def merge_lists(list_a, list_b):
         without any duplicate elements.
     """
     print("Poppy make a change")
-    return list_a+list_b
+    return list_a
 
 
 if __name__ == "__main__":
